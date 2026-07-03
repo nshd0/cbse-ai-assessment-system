@@ -1,0 +1,12 @@
+{
+  "grade_range": "9-10",
+  "type": "weighted-skill-assessment",
+  "total_weight": 100,
+  "criteria": [
+    { "criterion": "Subject Knowledge", "weight_percent": 25, "what_to_assess": "AI concepts, project cycle, data literacy, AI ethics" },
+    { "criterion": "Practical Skills", "weight_percent": 25, "what_to_assess": "Python programs, data handling, AI tool usage" },
+    { "criterion": "Project Execution", "weight_percent": 25, "what_to_assess": "Problem definition, solution design, implementation" },
+    { "criterion": "Viva and Explanation", "weight_percent": 15, "what_to_assess": "Communication, reasoning, concept clarity" },
+    { "criterion": "Portfolio and File Work", "weight_percent": 10, "what_to_assess": "Completeness, presentation, evidence documentation" }
+  ]
+}
