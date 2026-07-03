@@ -1,0 +1,51 @@
+{
+  "grade_range": "6-8",
+  "type": "activity-based",
+  "criteria": [
+    {
+      "criterion": "Concept Understanding",
+      "levels": {
+        "Excellent": "Explains AI idea clearly with examples",
+        "Good": "Shows basic understanding of AI concepts",
+        "Developing": "Partial understanding, needs prompting",
+        "Needs Support": "Requires significant teacher support"
+      }
+    },
+    {
+      "criterion": "Participation",
+      "levels": {
+        "Excellent": "Actively leads and participates in all activities",
+        "Good": "Participates regularly with engagement",
+        "Developing": "Sometimes participates when prompted",
+        "Needs Support": "Rarely participates or engages"
+      }
+    },
+    {
+      "criterion": "Activity Completion",
+      "levels": {
+        "Excellent": "Completes all tasks independently and accurately",
+        "Good": "Completes with minor guidance",
+        "Developing": "Completes with significant help",
+        "Needs Support": "Incomplete or requires full support"
+      }
+    },
+    {
+      "criterion": "Communication",
+      "levels": {
+        "Excellent": "Clear, confident, and structured communication",
+        "Good": "Mostly clear with minor lapses",
+        "Developing": "Limited clarity, basic responses",
+        "Needs Support": "Very limited or unclear communication"
+      }
+    },
+    {
+      "criterion": "Ethics and Safety",
+      "levels": {
+        "Excellent": "Consistently applies responsible AI use principles",
+        "Good": "Usually demonstrates responsible behaviour",
+        "Developing": "Needs reminders about safe and ethical use",
+        "Needs Support": "Unclear understanding of AI ethics"
+      }
+    }
+  ]
+}
